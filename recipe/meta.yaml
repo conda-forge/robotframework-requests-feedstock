@@ -1,6 +1,6 @@
 {% set name = "robotframework-requests" %}
-{% set version = "0.8.0" %}
-{% set sha256 = "9c49eac2bb5bcf20224d099863dbd6fbc217f8c2519e3ffd4dd06f4d4813302b" %}
+{% set version = "0.9.4" %}
+{% set sha256 = "e00943b8526c38bed5c3c661c813ec9d5a2106961bd91da0068712c2a0d49e82" %}
 
 package:
   name: {{ name|lower }}
